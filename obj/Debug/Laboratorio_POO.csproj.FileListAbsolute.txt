@@ -1,0 +1,8 @@
+C:\Users\MINEDUCYT\Desktop\POO\Laboratorio_POO\bin\Debug\Laboratorio_POO.exe.config
+C:\Users\MINEDUCYT\Desktop\POO\Laboratorio_POO\bin\Debug\Laboratorio_POO.exe
+C:\Users\MINEDUCYT\Desktop\POO\Laboratorio_POO\bin\Debug\Laboratorio_POO.pdb
+C:\Users\MINEDUCYT\Desktop\POO\Laboratorio_POO\obj\Debug\Laboratorio_POO.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\POO\Laboratorio_POO\obj\Debug\Laboratorio_POO.csproj.SuggestedBindingRedirects.cache
+C:\Users\MINEDUCYT\Desktop\POO\Laboratorio_POO\obj\Debug\Laboratorio_POO.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\POO\Laboratorio_POO\obj\Debug\Laboratorio_POO.exe
+C:\Users\MINEDUCYT\Desktop\POO\Laboratorio_POO\obj\Debug\Laboratorio_POO.pdb
